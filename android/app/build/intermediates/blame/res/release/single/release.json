@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_splashscreen_image.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\src\\main\\res\\drawable\\splashscreen_image.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_galioframework_src_config_galio.json.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_galioframework_src_config_galio.json"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_ionicons.json.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_ionicons.json"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_entypo.json.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_entypo.json"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_brands.ttf.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_brands.ttf"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_materialcommunityicons.ttf.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_materialcommunityicons.ttf"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_imgs_getprobg.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_imgs_getprobg.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_splashscreen.xml.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\src\\main\\res\\drawable\\splashscreen.xml"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_imgs_profilescreenbg.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_imgs_profilescreenbg.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_ionicons.ttf.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_ionicons.ttf"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_feather.ttf.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_feather.ttf"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_imgs_argonlogo.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_imgs_argonlogo.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_materialicons.json.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_materialicons.json"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_imgs_ios.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_imgs_ios.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_octicons.json.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_octicons.json"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_octicons.ttf.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_octicons.ttf"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_imgs_bg.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_imgs_bg.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_imgs_registerbg.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_imgs_registerbg.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_imgs_food_tiger_logo.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_imgs_food_tiger_logo.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_fontawesome5free.json.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_fontawesome5free.json"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_imgs_nodata.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_imgs_nodata.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_galioframework_src_fonts_galio.ttf.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_galioframework_src_fonts_galio.ttf"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_entypo.ttf.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_entypo.ttf"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_evilicons.ttf.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_evilicons.ttf"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_foundation.json.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_foundation.json"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_imgs_argonlogoonboarding.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_imgs_argonlogoonboarding.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_fontisto.json.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_fontisto.json"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app.json.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\app.json"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_regular.ttf.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_regular.ttf"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_materialcommunityicons.json.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_materialcommunityicons.json"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_foundation.ttf.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_foundation.ttf"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome.ttf.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome.ttf"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_solid.ttf.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_solid.ttf"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_assets_imgs_getprobg.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\assets_imgs_getprobg.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_materialicons.ttf.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_materialicons.ttf"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_assets_font_argon.ttf.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\assets_font_argon.ttf"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_zocial.json.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_zocial.json"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_simplelineicons.json.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_simplelineicons.json"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_fontawesome.json.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_fontawesome.json"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_evilicons.json.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_evilicons.json"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_assets_imgs_argonlogoonboarding.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\assets_imgs_argonlogoonboarding.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_assets_font_argonconf.json.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\assets_font_argonconf.json"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_assets_imgs_argonlogo.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\assets_imgs_argonlogo.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_antdesign.json.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_antdesign.json"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_simplelineicons.ttf.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_simplelineicons.ttf"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_zocial.ttf.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_zocial.ttf"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_imgs_android.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_imgs_android.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_feather.json.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_feather.json"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_antdesign.ttf.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_antdesign.ttf"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontisto.ttf.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontisto.ttf"
+    },
+    {
+        "merged": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "G:\\REACTPROJECTS\\DIGIRESTO\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]

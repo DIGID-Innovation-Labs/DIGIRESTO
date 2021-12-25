@@ -1,4 +1,4 @@
-exports.domain = "https://resto.digid.tn/api/v2";
+exports.domain = "http://resto.digid.tn/api/v2";
 exports.APP_SECRET="base64:cleqsZQ0FQGaaEpuNR228wvo02JTLgsj2Qko9Y9N4LI="; //Your app secret - same as in the .env file in your web project 
 exports.APP_NAME="DIGIRESTO";
 exports.LOGO="https://i.imgur.com/xC0qyZZ.png";
@@ -31,7 +31,7 @@ exports.dateTimeFormat="MMMM Do YYYY, h:mm a";
 exports.dateFormat="MMMM Do YYYY";
 
 //OneSignal APP KEY
-exports.ONESIGNAL_APP_ID="YOUR_ONESIGNAL_APP_ID";
+exports.ONESIGNAL_APP_ID="a26ad421-5ca0-4be7-80ba-dc91a3a222eb";
 
 //Google setup
 exports.GOOGLE_API_KEY="YOUR-GOOGLE_API_KEY";

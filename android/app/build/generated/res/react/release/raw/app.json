@@ -1,0 +1,35 @@
+{
+  "name": "DigiResto",
+  "expo": {
+    "name": "DigiResto",
+    "slug": "DigiResto",
+    "version": "3.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "tn.digid.resto"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "tn.digid.resto"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
