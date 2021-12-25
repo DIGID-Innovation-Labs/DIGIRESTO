@@ -3,13 +3,13 @@
 npm run imagex
 
 if [ "$APP_TYPE" == "driver" ]; then
-  npm run makedriver
+  npm run makevendor
 fi
 if [ "$APP_TYPE" == "vendor" ]; then
   npm run makevendor
 fi
 if [ "$APP_TYPE" == "client" ]; then
-  npm run makeclient
+  npm run makevendor
 fi
 
 
