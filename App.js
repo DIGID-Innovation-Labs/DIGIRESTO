@@ -64,6 +64,7 @@ export default class App extends React.Component {
 
     //Remove this method to stop OneSignal Debugging 
     OneSignal.setLogLevel(6, 0);
+    //OneSignal.setAppId("a26ad421-5ca0-4be7-80ba-dc91a3a222eb");
     
     // Replace 'YOUR_ONESIGNAL_APP_ID' with your OneSignal App ID.
     OneSignal.init(config.ONESIGNAL_APP_ID, {kOSSettingsKeyAutoPrompt : false, kOSSettingsKeyInAppLaunchURL: false, kOSSettingsKeyInFocusDisplayOption:2});
